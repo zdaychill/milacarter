@@ -174,7 +174,7 @@ export default function Home() {
               </Link> */}
               </div>
               <div className="flex justify-center h-full w-full gap-3 py-10">
-              <Link href={"https://onlyfans.com/milacarterrr"} target="_blank" rel="noopener noreferrer" className="bg-pink-300 rounded-2xl">
+              <Link href={"https://onlyfans.com/milaacarterrr"} target="_blank" rel="noopener noreferrer" className="bg-pink-300 rounded-2xl">
                 <Button variant={"outline"} className={"flex items-center gap-2 bg-pink-300 h-50"}>
                   <Image 
                   src={"/images/onlyfans_icon.png"}
