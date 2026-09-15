@@ -42,7 +42,7 @@ export default function Home() {
               </Avatar>
             </div>
             <h1 className="text-pink-500 mb-6 text-6xl font-bold">
-              <strong>Olivia Oakley</strong>
+              <strong>Mila Carter</strong>
             </h1>
 
             <div>
